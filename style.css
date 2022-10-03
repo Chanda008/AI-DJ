@@ -1,0 +1,9 @@
+.play_button{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas{
+    border-radius: 20px;
+    border: 5px solid white;
+}
